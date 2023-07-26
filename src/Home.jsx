@@ -10,7 +10,6 @@ const Home = () => {
             <div className='btndiv'>
                 <button className="loginbtn" type='button'>Log In/Sign Up</button>
                 <button className='cartbtn'><ion-icon name="cart-outline"></ion-icon></button>
-                <button className='searchbtn'><ion-icon name="search-outline"></ion-icon></button>
             </div> 
         </div>
     </>
